@@ -1,0 +1,61 @@
+
+
+body {
+  font-family: "Comic Sans MS", sans-serif;
+  background:linear-gradient(27deg, mediumpurple,violet,turquoise, cyan);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  color: white;
+}
+
+.todo-box {
+  background-color: steelblue;
+  padding: 20px;
+  border-radius: 30px;
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.header img {
+  width: 100px;
+  margin-right: 10px;
+}
+
+
+.enterButton{
+  font-family: "Comic Sans MS", sans-serif;
+  background-color: turquoise;
+  color: black;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 20px;
+}
+
+.newTaskButton{
+  font-family: "Comic Sans MS", sans-serif;
+  background-color: whitesmoke;
+  color: black;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 20px;
+}
+
+.dateButton{
+  background-color: whitesmoke;
+  color: black;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 20px;
+}
+
+
